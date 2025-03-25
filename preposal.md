@@ -8,8 +8,8 @@
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Alice Awesomeface
-Jean Eric
+- Alice Awesomeface
+- Jean Eric
 
 ## Do you have any questions of your own?
 
