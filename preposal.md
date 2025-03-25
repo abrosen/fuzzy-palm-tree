@@ -2,7 +2,6 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
 Musical VST using Juce
 A Rimworld mod
 A stardew valley mod
